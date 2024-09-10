@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tornorsei.github.io/sitemap.html.gz
+Sitemap: https://tornorsei.github.io/app/sitemap.html.gz
+Sitemap: https://tornorsei.github.io/assets/sitemap.html.gz
+Sitemap: https://tornorsei.github.io/css/sitemap.html.gz
+Sitemap: https://tornorsei.github.io/includes/sitemap.html.gz
+Sitemap: https://tornorsei.github.io/item/sitemap.html.gz
+Sitemap: https://tornorsei.github.io/src/sitemap.html.gz
